@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "753638444547",
+    "firebase_url": "https://wvpoc-8745b.firebaseio.com",
+    "project_id": "wvpoc-8745b",
+    "storage_bucket": "wvpoc-8745b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753638444547:android:2315afb71a3b54a2",
+        "android_client_info": {
+          "package_name": "com.autoportal.wv_poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753638444547-hntogc9qhb8qenvgq7oeegcm3jfautmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autoportal.wv_poc",
+            "certificate_hash": "d7ed5a882e830eae2ff4c3735d51c7ed57c966d6"
+          }
+        },
+        {
+          "client_id": "753638444547-5ghq3aovcnq2o1n2o0elkipn3ukghuu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXpCGIE6exBn7BpcCDd1ks6UOK6-J1pak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753638444547-5ghq3aovcnq2o1n2o0elkipn3ukghuu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
